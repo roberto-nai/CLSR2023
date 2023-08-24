@@ -1,0 +1,49 @@
+{
+  "properties": {
+    "court": {
+      "type": "keyword"
+    },
+    "ecli": {
+      "type": "keyword"
+    },
+    "sentence_file": {
+      "type": "keyword"
+    },
+    "recourse_id": {
+      "type": "keyword"
+    },
+    "recourse_num": {
+      "type": "keyword"
+    },
+    "recourse_year": {
+      "type": "short"
+    },
+    "recourse_date": {
+      "type": "date",
+    },
+    "sentence_id": {
+      "type": "keyword"
+    },
+    "sentence_num": {
+      "type": "keyword"
+    },
+    "sentence_year": {
+      "type": "short"
+    },
+    "text_recurring": {
+      "type": "text"
+    },
+    "text_resistant_pa": {
+      "type": "text"
+    },
+    "text_resistant_winner": {
+      "type": "text"
+    },
+    "sentence_title": {
+      "type": "keyword"
+    },
+    "sentence_year": {
+      "type": "short"
+    }
+  }
+}
