@@ -3,3 +3,5 @@
 
 ANAC Open Data: https://bit.ly/3OMy8he
 
+The "images" folder contains full-size figures of the article.  
+
