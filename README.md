@@ -3,6 +3,7 @@
 
 ANAC Open Data (on Google Drive, about 6 GB): https://bit.ly/3OMy8he
 
+The "elastic_search_db" folder contains the Elastic Search database schema used for IR.  
 The "images" folder contains full-size figures of the article.  
 The "pdf" folder contains the article.  
 The "script" folder contains the developed code.  
