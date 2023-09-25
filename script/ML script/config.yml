@@ -1,0 +1,18 @@
+# config.yml
+
+OPENDATA_DIR: "opendata" # ANAC original Open Data
+OPENDATA_FILE_TENDER: "bando_cig_2007-2022_clean.csv" # OK
+# OPENDATA_FILE_TENDER: "bando_cig_2007-2022.csv"
+# OPENDATA_FILE_AWARD: "aggiudicazioni_csv_clean.csv"
+OPENDATA_FILE_AWARD: "aggiudicazioni_aggiudicatari_clean_csv.csv" # already joint with winners
+OPENDATA_FILE_WINNER: "aggiudicatari_csv_clean.csv"
+APPEALS_FILE: "list_cig_label.csv" # file with cig with appeal
+DATA_DIR: "data" # local data
+CHARTS_DIR: "charts" # local charts
+ELASTIC_DIR: "elastic" # results from Elastic and NLP
+HP_TUNING: 0 # Hyper Parameters Tuning (0 no, 1 yes)
+YEAR_START: 2007
+YEAR_END: 2023
+
+
+
